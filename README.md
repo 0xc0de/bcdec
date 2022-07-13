@@ -1,3 +1,8 @@
+
+This fork contains a version of the bcdec library adapted for use in the Hork Engine.
+
+
+
 # bcdec
 Small header-only C library to decompress any BC compressed image inspired by incredible stb libaries (<http://nothings.org/stb>)
 
